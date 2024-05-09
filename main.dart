@@ -35,7 +35,7 @@ class MyHomePage extends StatelessWidget {
             CircleAvatar(
               radius: 20, 
               backgroundColor: Colors.grey[300], 
-              child: ImageIcon(
+              child:Icon(
                 Icons.person,
                 color: Colors.black, 
               ),
