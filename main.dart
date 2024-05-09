@@ -65,7 +65,7 @@ class MyHomePage extends StatelessWidget {
             imageUrl:
                 'niketravisscoot.jpeg',
             shoeName: 'Nike Travis Scoot',
-            shoePrice: 'Rp. \$11.000.000',
+            shoePrice: 'Rp. \11.000.000',
             backgroundColor: Color.fromARGB(255, 31, 35, 0).withOpacity(0.2), 
           ),
           ShoeCard(
